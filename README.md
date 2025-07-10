@@ -6,6 +6,18 @@
 
 🔗 **[Live Demo](https://charan-1230.github.io/Screen_time_Visualisations/)**
 
+## Usage Guide
+
+### Navigation
+- Use the navigation bar to switch between the three main visualizations
+- Toggle between light and dark themes using the theme switcher
+- Each visualization section has its own interactive controls
+
+### Interaction Features
+- **Hover Effects**: Hover over map regions, chart elements, or heatmap cells for detailed information
+- **Filtering**: Use dropdown menus and buttons to filter data by age groups, time periods, or countries
+- **Toggle Views**: Switch between different chart types within visualizations 1 and 2
+- **Responsive Design**: Works seamlessly across desktop, tablet, and mobile devices
 
 ## Features
 
@@ -68,19 +80,6 @@ The visualizations utilize multiple datasets:
 3. **Geographical Data** (`world.geojson`)
    - World map boundaries for choropleth visualization
    - Country polygons with proper projections
-
-## Usage Guide
-
-### Navigation
-- Use the navigation bar to switch between the three main visualizations
-- Toggle between light and dark themes using the theme switcher
-- Each visualization section has its own interactive controls
-
-### Interaction Features
-- **Hover Effects**: Hover over map regions, chart elements, or heatmap cells for detailed information
-- **Filtering**: Use dropdown menus and buttons to filter data by age groups, time periods, or countries
-- **Toggle Views**: Switch between different chart types within visualizations 1 and 2
-- **Responsive Design**: Works seamlessly across desktop, tablet, and mobile devices
 
 ## Key Insights
 
