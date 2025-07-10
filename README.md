@@ -4,9 +4,9 @@
 
 - This is a comprehensive data visualization project that analyzes global screen time patterns and their relationship with happiness levels. The project creates an interactive dashboard with multiple visualization types to explore different aspects of digital device usage across various demographics and geographic regions.
 
-🔗 **[Live Demo](https://charan-1230.github.io/Screen_time_Visualisations/)**
+ **[Live Demo](https://charan-1230.github.io/Screen_time_Visualisations/)**
 
-## Usage Guide
+## [Usage Guide](https://youtu.be/mxZurvgmbfA?feature=shared)
 
 ### Navigation
 - Use the navigation bar to switch between the three main visualizations
